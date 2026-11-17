@@ -27,8 +27,8 @@
 | :--- | :--- |
 | **Языки программирования** | Java (core), Python (базовый) |
 | **Автоматизация UI** | Selenium WebDriver, Selenide, Page Object Model |
-| **Автоматизация API** | REST Assured, Postman, Swagger |
-| **Тестовые фреймворки** | JUnit, TestNG, Hamcrest |
+| **Автоматизация API** | REST Assured, Postman, Swagger, WireMock |
+| **Тестовые фреймворки** | JUnit, TestNG, Hamcrest, Pytest |
 | **Сборка и CI** | Maven |
 | **Базы данных** | PostgreSQL (SELECT, JOIN, агрегации, подзапросы) |
 | **Инструменты** | Git/GitHub, Docker (контейнеры, Dockerfile), DevTools, Jira |
